@@ -23,10 +23,7 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/VENOMxCRAZYOP/VENOMxDDOS
-   cd VENOMxDDOS
-   ```
+
 
 2. Install the required libraries:
 
@@ -119,7 +116,7 @@ If you wish to contribute to this project, feel free to submit a pull request or
 
 ## Contact
 
-For any queries or support, contact [venomXcrazy](https://t.me/venomXcrazy) on Telegram. 
+For any queries or support, contact [EXR_ICONIC](https://t.me/EXR_ICONIC) on Telegram. 
 
 ---
 
